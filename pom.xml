@@ -59,7 +59,7 @@
             <artifactId>spring-orm</artifactId>
             <version>5.0.5.RELEASE</version>
         </dependency>
-        <!--web整合-->
+
         <dependency>
             <groupId>net.sf.sparta-spring-web-utils</groupId>
             <artifactId>spring-web-utils</artifactId>
