@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3af9e5fe-e93e-4910-b10f-5b82bdc8d45d" name="Default Changelist" comment="test2">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/green_01_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/green_01_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/green_01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/green_01.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_0_RC3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +113,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/test" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -127,7 +137,17 @@
             <list>
               <RecentGroup>
                 <option name="FILTER_VALUES">
+                  <option value="origin/test" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
                   <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
                 </option>
               </RecentGroup>
               <RecentGroup>
@@ -140,6 +160,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test1" />

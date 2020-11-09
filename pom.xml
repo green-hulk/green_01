@@ -53,7 +53,7 @@
             <artifactId>spring-tx</artifactId>
             <version>5.0.5.RELEASE</version>
         </dependency>
-        <!--与hibernate做整合-->
+
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-orm</artifactId>
